@@ -1,6 +1,6 @@
 # Kaggle kernels
 
-This is sample code/notbook that shows work that uploaded in Kaggle.com.
+This is sample code/notbook that shows work that uploaded in [kaggle](https://www.kaggle.com/).
 
 You can see it in https://www.kaggle.com/krunal3kapadiya/
 
